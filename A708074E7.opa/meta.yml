@@ -1,0 +1,19 @@
+id: A708074E7
+title: Dhāraṇī of Goddess Parṇaśavarī
+type: translation
+pechas:
+- I286D1838
+- I3DCE1779
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:31:21.669799
+  last_modified_at: 2023-01-04 11:31:21.669810
+  collections:
+  - Chögyal Pakpa Lodrö Gyaltsen
+  - Works of Tibetan Masters
+alignment_to_base:
+  I286D1838/77F9: '0626'
+  I3DCE1779/5B10: '0626'
